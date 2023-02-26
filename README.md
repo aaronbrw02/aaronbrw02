@@ -8,11 +8,11 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/aaronbrw02/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/aaronbrw02/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aaronbrw02/azure-network-protocols)
+ 
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aaron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/aaron-brown-166b52263/
